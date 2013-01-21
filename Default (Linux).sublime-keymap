@@ -1,0 +1,9 @@
+[
+	{ "keys": ["ctrl+="], "command": "alignment" },
+	{ "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+	{ "keys": ["f1"], "command": "goto_documentation" },
+	{ "keys": ["ctrl+j"], "command": "code_intel_auto_complete" },
+	{ "keys": ["super+t"], "command": "new_file" },
+	{ "keys": ["f9"], "command": "toggle_side_bar" },
+	{ "keys": ["ctrl+n"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} }
+]

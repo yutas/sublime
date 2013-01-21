@@ -1,0 +1,15 @@
+{
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
+		"Alignment",
+		"Comment-Snippets",
+		"Emmet",
+		"Goto Documentation",
+		"Package Control",
+		"SublimeBlockCursor",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"TrailingSpaces"
+	]
+}

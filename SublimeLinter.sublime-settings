@@ -1,0 +1,9 @@
+{
+	"sublimelinter_syntax_map":
+    {
+        "PHP": "php"
+    },
+    "sublimelinter_popup_errors_on_save": true,
+    "sublimelinter_gutter_marks": true,
+    "sublimelinter_mark_style": "none"
+}
