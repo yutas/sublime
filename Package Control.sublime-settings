@@ -1,15 +1,21 @@
 {
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"Additional PHP Snippets",
 		"Alignment",
 		"Comment-Snippets",
+		"Dayle Rees Color Schemes",
 		"Emmet",
 		"Goto Documentation",
 		"Package Control",
 		"SublimeBlockCursor",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"TrailingSpaces"
+		"Surround",
+		"TrailingSpaces",
+		"Vintage Numbers",
+		"Vintage Surround",
+		"VintageEx"
 	]
 }
